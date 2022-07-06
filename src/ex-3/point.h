@@ -1,8 +1,6 @@
 #ifndef __POINT_H__ // Header guard.
 #define __POINT_H__
 
-#include <stdint.h>
-
 typedef struct Point {
     double x;
     double y;
